@@ -1,0 +1,24 @@
+•Description:
+Tic Tac Toe game with a modern and interactive interface built using C# and .NET Framework Windows Forms It includes multiple forms for theme selection and gameplay providing an enjoyable experience for players of all ages
+
+•Features:
+
+1: Three distinct forms:
+•Main Form for gameplay and theme selection
+•Theme Form to choose from different game themes
+•Game Form where the Tic Tac Toe match takes place
+
+2: Players can choose from multiple themes to customize the game’s appearance
+
+3: Two-player gameplay with real-time turn indication
+
+4: Reset or start a new game at any time
+
+5: Intuitive and interactive interface for a smooth gaming experience
+
+•Purpose:
+The Game is designed to provide users with a fun and engaging way to play Tic Tac Toe digitally It emphasizes customization through themes and ensures a user-friendly interface that makes the classic game accessible on a modern platform
+
+•Additional Features (If You Want):
+
+1: Add sound effects and animations for a more immersive experience
