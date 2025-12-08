@@ -1,0 +1,24 @@
+This application allows customers to place pizza orders easily and efficiently using a Windows Forms interface built with C# and .NET Framework
+
+•Features:
+
+1:Customers can select pizza types, sizes, and toppings
+
+2:Specify quantity for each pizza
+
+3:Calculate total price automatically
+
+4:View order summary before confirming the order
+
+5:Option to add special instructions for the order
+
+6:Simple and intuitive interface for a smooth user experience
+
+•Purpose:
+The application is designed to help pizza shops manage orders digitally reduce errors from manual order taking and improve customer satisfaction by streamlining the ordering process
+
+•Additional Features(If You Want):
+
+1:Integrate with a database to store orders permanently
+
+2:Generate receipts or invoices for each order
